@@ -1,2 +1,2 @@
 # OpenSCAD
-Framework od structure in Openscad
+Framework of structure in Openscad
